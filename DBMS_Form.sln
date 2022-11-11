@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBMS_Form", "DBMS_Form\DBMS_Form.csproj", "{99B229B5-9FD7-4269-A578-832B949768AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B229B5-9FD7-4269-A578-832B949768AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B229B5-9FD7-4269-A578-832B949768AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B229B5-9FD7-4269-A578-832B949768AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B229B5-9FD7-4269-A578-832B949768AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED58211-DB07-4FE6-8C74-7E9B1A3A077D}
+	EndGlobalSection
+EndGlobal
